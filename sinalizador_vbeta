@@ -62,8 +62,7 @@ void draw ()
   arc(width/2, height/2, height*.8, mouseX*1.5, orig03, orig03 + tam03);
   delay(80);
    
-//duvidas: por que os arcos estão com arredondamento de quinas?
-//pq não posso usar o mouseX para a altura e largura dos arcos(ou em uma ou em outra)?
+//pq não posso usar o mouseX para a altura e largura dos arcos(apenas em uma ou em outra)?
  
  
 }
