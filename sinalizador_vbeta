@@ -54,7 +54,7 @@ void draw ()
  //também randômico
   
   strokeCap(SQUARE);
- //arcos com quinas quadradas ou redondas (abaixo desativado) 
+ //para arcos com quinas redondas ativar abaixo 
  // strokeCap(ROUND);
  
   arc(width/2, height/2, height*.8, mouseX*1.5, orig01, orig01 + tam01);
