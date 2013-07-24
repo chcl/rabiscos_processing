@@ -7,10 +7,10 @@
  *
  *
  * Trata-se de uma demonstração de personalidade em arranjos circulares.
- * Desenhei dois circulos (um preenchido e outro apenas contorno). Representam uma espécie de núcleo e membrana protetora.
- * Os arcos foram gerados por valores de origens e tamanhos diferentes e aleatórios. Representam a variação externa.
- * O delay foi pra dar uma melhor fluidez, mas alterando-o você tem diferentes observações.
- *  Se eu não criasse uma variavel randomica pra cada arco, os valores seriam os mesmos para todos, e teriamos 3 arcos sobrepostos.
+ * Desenhei dois circulos (um preenchido e outro apenas com contorno). Representam uma espécie de núcleo e membrana protetora.
+ * Os arcos foram gerados por valores de origem e tamanho diferentes e aleatórios. Representam a variação externa ao núcleo.
+ * O delay foi pra dar uma melhor fluidez, mas alterando-o você obtém diferentes observações.
+ *  Se eu não criasse uma variável randômica pra cada arco, os valores seriam os mesmos para todos, e teriamos 3 arcos sobrepostos.
  * Ainda está em fase de experimentação...
  *
  */
