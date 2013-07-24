@@ -10,8 +10,8 @@
  * Desenhei dois circulos (um preenchido e outro apenas contorno). Representam uma espécie de núcleo e membrana protetora.
  * Os arcos foram gerados por valores de origens e tamanhos diferentes e aleatórios. Representam a variação externa.
  * O delay foi pra dar uma melhor fluidez, mas alterando-o você tem diferentes observações.
- *  Se eu não criasse uma variavel randomica pra cada arco, o valor seriam os mesmo para todos, e teriamos 3 arcos sobrepostos.
- * Ainda em fase de experimentação...
+ *  Se eu não criasse uma variavel randomica pra cada arco, os valores seriam os mesmo para todos, e teriamos 3 arcos sobrepostos.
+ * Ainda está em fase de experimentação...
  *
  */
  
