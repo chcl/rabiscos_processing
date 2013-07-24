@@ -53,6 +53,10 @@ void draw ()
  //criará arcos bem pequenos, de valores proximos a zero até a metade de PI
  //também randômico
   
+  strokeCap(SQUARE);
+ //arcos com quinas quadradas ou redondas (abaixo desativado) 
+ // strokeCap(ROUND);
+ 
   arc(width/2, height/2, height*.8, mouseX*1.5, orig01, orig01 + tam01);
   arc(width/2, height/2, height*.8, mouseX*1.5, orig02, orig02 + tam02);
   arc(width/2, height/2, height*.8, mouseX*1.5, orig03, orig03 + tam03);
